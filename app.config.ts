@@ -44,11 +44,11 @@ export default ({ config }: ConfigContext): ExpoConfig => ({
   },
   updates: {
     enabled: true,
-    url: "https://u.expo.dev/49e4e24d-c928-4ff1-815d-f1a58ca580bd",
+    url: "https://u.expo.dev/2c738c6a-84ae-46bd-99dc-00b41b3bc9c8",
   },
   extra: {
     eas: {
-      projectId: "49e4e24d-c928-4ff1-815d-f1a58ca580bd",
+      projectId: "2c738c6a-84ae-46bd-99dc-00b41b3bc9c8",
     },
   },
   plugins: ["expo-font", "expo-localization"],
