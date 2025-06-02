@@ -2,6 +2,7 @@ import { ExpoConfig, ConfigContext } from "@expo/config";
 
 export default ({ config }: ConfigContext): ExpoConfig => ({
   ...config,
+  owner: "aliburhankeskin",
   name: "Aktiftech Case",
   description: "Aktiftech Case Description",
   slug: "aktiftech-case",
