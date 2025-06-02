@@ -4,7 +4,7 @@ export default ({ config }: ConfigContext): ExpoConfig => ({
   ...config,
   name: "Aktiftech Case",
   description: "Aktiftech Case Description",
-  slug: "aktiftech-expo-boilerplate",
+  slug: "aktiftech-case",
   scheme: "com.aktiftech.case",
   version: "1.0.0",
   sdkVersion: "53.0.0",
