@@ -267,6 +267,5 @@ Sample: Routes Type, ScreenOptions etc.
 
 # Run Expo Go
 
-![eas-update](https://github.com/user-attachments/assets/329172ba-6f31-45a5-88d3-03fc685563b4)
-
+![aktiftech](https://github.com/user-attachments/assets/40ef137f-535d-42ba-9982-4ca15c226f62)
 <br>
