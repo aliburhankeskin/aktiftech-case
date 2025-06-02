@@ -267,14 +267,6 @@ Sample: Routes Type, ScreenOptions etc.
 
 # Run Expo Go
 
-![eas-update](https://github.com/Milvasoft/expo-boilerplate/assets/32386753/067203f8-ea57-4b91-a698-884938111152)
+![eas-update](https://github.com/user-attachments/assets/329172ba-6f31-45a5-88d3-03fc685563b4)
 
 <br>
-
-<a id="ExpoProjectLink"></a>
-
-# Expo Project Link
-
-```
-https://expo.dev/%40aliburhankeskin/milvasoft-expo-boilerplate?serviceType=eas&distribution=expo-go&scheme=&channel=master&sdkVersion=50.0.0
-```
