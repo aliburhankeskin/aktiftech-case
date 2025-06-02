@@ -3,7 +3,7 @@ import { enableScreens } from "react-native-screens";
 import "react-native-gesture-handler";
 import { Provider } from "react-redux";
 import * as ScreenOrientation from "expo-screen-orientation";
-import { Platform } from "react-native";
+import { Platform, StatusBar } from "react-native";
 import Store from "./src/store";
 import RootNavigation from "./src/routers";
 import CustomProvider from "./src/providers";
@@ -24,6 +24,7 @@ function App() {
     <ErrorBoundary>
       <Provider store={Store}>
         <CustomProvider>
+          <StatusBar barStyle="dark-content" />
           <RootNavigation />
         </CustomProvider>
       </Provider>
